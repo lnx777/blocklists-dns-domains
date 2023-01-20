@@ -1,2 +1,1 @@
-# blocklists-dns-domains-
-DNS domains to use with PFblocker-NG
+Add the link in "raw" format in the Pfblocker-Ng filter.
