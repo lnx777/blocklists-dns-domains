@@ -66,6 +66,11 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.vipfortaleza.com
 0.0.0.0 www.bet365.com 
 0.0.0.0 www.brazino777.com
+0.0.0.0 www.futemax.app 
+0.0.0.0 www.futemax.com
+0.0.0.0 www.futemax.nu 
+0.0.0.0 www.multicanais.gratis
+0.0.0.0 www.multicanais1.com
 0.0.0.0 vimeo.com
 0.0.0.0 riotgames.com
 0.0.0.0 us-proxy.org
@@ -117,3 +122,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 vipfortaleza.com
 0.0.0.0 bet365.com 
 0.0.0.0 brazino777.com
+0.0.0.0 futemax.app 
+0.0.0.0 futemax.com
+0.0.0.0 futemax.nu 
+0.0.0.0 multicanais.gratis
+0.0.0.0 multicanais1.com
